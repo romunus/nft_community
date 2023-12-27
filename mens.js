@@ -4,7 +4,7 @@ export const mensData = [
     name: "Swoosh Oval T-Shirt",
     price: 14.23,
     size: "medium",
-    productID: "men-1",
+    productID: "men-4",
     category: "activeware",
     images:
       "https://n.nordstrommedia.com/id/sr3/dd660d9b-ded6-4108-87d5-2c11ec087d93.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
