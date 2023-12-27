@@ -4,7 +4,7 @@ export const allData = [
     name: "Kids' Zella Girl Twisted Front Long Sleeve Tee",
     price: 8.48,
     size: "small",
-    productID: "kid-1",
+    productID: "kid-2",
     category: "activeware",
     images:
       "https://n.nordstrommedia.com/id/sr3/000e32be-0b2e-4235-acf1-db56f90cb031.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
