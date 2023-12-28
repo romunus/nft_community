@@ -6,7 +6,7 @@
 } := import('std')
 datetime := import('datetime')
 
-OneDay := 86400
+OneDay := 86401
 
 fn dayList(n, dir) {
 	dir := dir |> default(:future)
